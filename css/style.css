@@ -1,0 +1,107 @@
+body { background-color: black;
+ }
+nav{
+	display: flex;
+	justify-content:flex-start;
+}
+ nav li{padding: 20px;
+	list-style: none;
+	background-color: black;
+	color: white;
+	display:inline-block;
+}
+
+ .Palace {
+ 	width: 100%;
+ 	height:350px;
+ 	background-color:white;
+font-size: 70px;
+padding-top: 50px;
+ 	text-align: center;
+ 	background-image: url(../images/flower5.jpg);
+	background-size: cover;
+
+ }
+ .first-box{display: flex;}
+.aa{
+	width: 80%;
+	height: 350px;
+	background-color: yellow;
+	background-image: url(../images/flower.jpg);
+	background-size: cover;
+}
+.ab{width: 20%;
+	height: 350px;
+	background-color: orange;
+	background-image: url(../images/flower2.jpg);
+	background-size: cover;
+}
+.second-box{display:flex;}
+.ba {width: 30%;
+height:200px;
+background-color: red;
+background-image: url(../images/flower3.jpg);
+	background-size: cover;
+}
+.bb{width: 30%;
+height: 200px;
+background-color: blue;
+background-image: url(../images/flower4.jpg);
+	background-size: cover;}
+
+.bc{width: 20%;
+height:200px;
+background-color: red;
+background-image: url(../images/animal.jpg);
+	background-size: cover;
+
+.be{widhth:20%;
+height: 200px;
+background-color: orange;
+background-image: url(../images/animal6.jpg);
+	background-size: cover;
+}
+
+
+}
+ .third-box{display: flex;}
+.ca{
+	width: 80%;
+	height: 350px;
+	background-color: black;
+	background-image: url(../images/animal2.jpg);
+	background-size: cover;
+
+
+}
+.cb{width: 20%;
+	height: 350px;
+	background-color: white;
+	background-image: url(../images/animal3.jpg);
+	background-size: cover;
+
+}
+.fourth-box{display:flex;}
+.da{
+	width: 35%;
+height:200px;
+background-color: red;
+background-image: url(../images/animal4.jpg);
+	background-size: cover;
+
+}
+.db{
+	width: 35%;
+height: 200px;
+background-color: blue;
+background-image: url(../images/animal5.jpg);
+	background-size: cover;
+}
+
+.dc{
+	width: 20%;
+height:200px;
+background-color: black;
+
+}
+
